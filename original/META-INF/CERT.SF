@@ -1,6 +1,6 @@
 Signature-Version: 1.0
 Created-By: 1.0 (Android SignApk)
-SHA-256-Digest-Manifest: n29u1YVaTVR2lTkoRNl/9ZklyGKirLUhmqLyEeDd1yI=
+SHA-256-Digest-Manifest: QnMW+sehf69u8z2C1zUPMdDmHpWJOTP5Jk7K1C1ldWs=
 X-Android-APK-Signed: 2, 3
 
 Name: AndroidManifest.xml
@@ -247,5 +247,5 @@ Name: res/layout/notification_template_part_time.xml
 SHA-256-Digest: BJe1bP7tzvNtYfrUAV3M8D5g7YXoF/De2vi7aIW193g=
 
 Name: resources.arsc
-SHA-256-Digest: 4ZUuXw56umbUX3Ekqv1tU4YzsCnq0QAmUL8FLMnBi3M=
+SHA-256-Digest: Yb7QTuLWpPweyt2lktXM+P9B3JcVUrTaCLqGIoHplwI=
 

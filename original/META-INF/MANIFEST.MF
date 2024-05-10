@@ -245,5 +245,5 @@ Name: res/layout/notification_template_part_time.xml
 SHA-256-Digest: RHoI3QDf8xLZR/XiTWy5flTO8HhMMY5A+p7DDr96E74=
 
 Name: resources.arsc
-SHA-256-Digest: Y1ft/znQhfo3DXFDGLCh/iZ0cBnU2fLm6RCcNGEERuQ=
+SHA-256-Digest: 4W8DvTSHqqBuISZDwTyRAvDAOlja7j0bG1RX5SZXQQM=
 
